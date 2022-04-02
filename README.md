@@ -1,3 +1,3 @@
 # brandly
 
-https://github.com/octladyy/brandly/
+https://octladyy.github.io/brandly/
